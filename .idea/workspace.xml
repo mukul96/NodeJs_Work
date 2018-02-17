@@ -2,351 +2,351 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4eb6c0df-587f-4107-abf2-f084c430cc7d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/applicationLibraries.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/colors.scheme.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.toolbar.clicks.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Middleware/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/Fizzbuzz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/input" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/output" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first_app/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloworld/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/module1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/module2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/app.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renderingHtml/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renderingHtml/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/Fizzbuzz.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/module2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/app.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/colors.scheme.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script.js" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/ABOUT" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cache/cache.lock" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cache/cache.shelve" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/appadmin.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py.1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cron/crontab" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_cas.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_event.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_group.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_membership.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_permission.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_user.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_comment.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_content.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_like.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_likes.table" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/sql.log" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/storage.sqlite" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-35-46.4084bb42-e161-4efd-9cf2-eed17cd4817f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-35-56.6826d64e-1d04-4293-8643-8d97c4b64921" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-40-28.f5828a18-458f-454a-bf1c-71060a931837" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.13-09-20.095fd486-0031-4e0e-9dc4-08334e88f64d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-06-39.6cd6209f-6c2b-4da9-a51e-8f36642965bd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-08-29.a0bf6636-e0dd-4b98-8a60-03b4cc6aea4c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-08-59.0731f6cc-6a95-4b26-8124-8a2c4109b5af" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-10-13.770d8b0f-825e-4e87-9ef4-53ce4c4b4985" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-45-29.1821a450-effd-47e2-84fb-3638af49ee74" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-16-12.bd040a33-768e-4998-9dec-5e61b29f8943" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-18-50.21d132a5-31b6-40e2-9544-24a19a9b8206" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-18-51.c987c7e3-f7bc-4435-b17f-3b1dad71b7aa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-19-49.c815aa6b-9c0f-4078-864a-5778dd6833e9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-20-03.aa19ca1f-0392-4895-bb8f-daf77697959d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-21-03.b8dc617b-1603-42ec-975e-a1d65a713a2c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-21-06.8afc4619-bee6-4898-a3c1-9fc3a1f3be0b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-14.494dc888-0c40-4448-88e3-427782c7e3d4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-19.385158c2-b653-40ac-8f62-de78bf2f3927" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-24.2d352e07-e974-4d44-98e8-fef0233623d5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-26-58.62802a54-8bfd-4204-8091-c0605c8feab5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-27-08.2b58dc91-411d-4bd8-9f05-851d5f3ed150" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-31-14.50d9389d-5bb2-4993-8730-faffe76ef929" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-31-16.60230fbd-8f14-4b0f-b362-ba73bb4fd8ed" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-34-41.20e18d73-8f41-4d5c-8efb-af79e2d2faa1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-35-39.80ab1c84-a2d5-4168-819c-bfcde0eae8fd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-30.c3ae5b8a-1908-4b32-8729-fd2bb0c83d51" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-31.b88184e1-8675-4d1f-a61f-933cc4afc058" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.714563d3-f28d-41c1-bd12-870e11640e9a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.80148dae-ed09-4ed6-b160-024cfd0e567e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.ed6f24dd-1029-4683-b231-8881209b7e48" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-18-22.6b9295ec-2847-4ae8-9c2f-4a25bdf6472c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-18-30.d92cfe75-136e-4e4e-85fa-f14382037059" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-23-13.b029a5ab-7bd7-46c4-9721-81627a6ee7e7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-31.d5c3c447-3f6c-48d9-8348-cd4906325dea" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-33.8ff5eaf1-19e2-4fac-9e48-f8f56b33cf8f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-33.e47e762c-18f2-4efd-9325-fb50cb40aa98" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-36-13.31acf7a3-797f-4351-b509-68e6221c26e5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-25.c4edf8d1-846e-432a-b41d-d6ec936068aa" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-28.09782a57-5a9b-440b-a292-40fb61738617" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-33.73564357-e911-41d6-85fe-0c3185f4fe8f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-25-58.bbc5ac69-36df-474c-a175-d59eba4456ae" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-27-50.6754c2a6-2567-4c8e-95c6-b1cdfd77674e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-27-53.a4729cdd-d50f-4478-b73c-69582eab33a1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.09-43-31.2615143b-0f94-4afc-ac9c-8299a6ce22b6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-23-50.5a966316-8101-4e4a-a333-c23f596734cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-23-55.e153d9ac-4aa4-4fd1-a3b5-b9a2347d5f79" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-24-07.18b343c1-629a-4d0b-80e7-34808459828b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-24-25.7ead43c5-be5c-4a6f-8298-3b06825a78e6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-26-37.a0ffd974-5a0e-4972-997f-80aa122282c2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-39-23.2563f5ea-1163-4f48-b1de-3278c4d06e8e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-41-39.9e4eaf94-b95a-4adc-92b8-fcbb2cb2e9f4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-44-15.f5366054-9145-4f67-a86e-8c80c7d127da" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-39-39.739f041c-b6d6-4130-96fa-00285ab1a653" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-42-00.bcd1af53-2d68-4703-9c63-8a3e3a0fefa5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-43-05.9b98852a-a84b-4234-bc66-b49f272c210a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-47-42.3b903e95-0ffb-414b-a667-e756884b7b17" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-09-09.8fff9638-c2df-436a-ad08-777abe95f9d1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-09-50.45f86608-755d-4541-b516-d3204b783f7e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-11-03.ac316e56-fa1a-4189-86aa-61dc75a0b7cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-11-47.350035ac-3095-4a9a-bbd8-e055e14f9a92" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-13-48.b6efbafe-d578-400f-9f2b-924cad005475" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-16-18.fafc8f01-023a-4fcc-b028-16f1437cd143" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-25-59.d2d60416-1ef2-43e7-8e8f-6df364f2896e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-33-52.d72745ee-8021-4f89-a779-8e5b1e2e04e9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-36-11.dd272903-c2c4-4cf1-8139-18e680e3aba2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.15-59-24.1dba0573-9237-4f64-9329-f44677635ce0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-00-47.9eaa04f6-fb33-492f-b6db-a4830e02515c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-15.f795e686-305a-4cf9-b5ee-d3495b050440" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-17.763f9e9b-d46f-44c7-9795-78b4a759c5c7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-35.94f48f51-2180-460c-b4be-dae618f4674e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-00-58.7bc12066-bbc0-4f00-a153-922a9953eb81" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-15-22.56bca22f-336e-49f6-a2b6-f835f70f2321" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-15-50.cdc85eac-6f8f-4df7-9dc4-76e9c8c2bb46" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-18-44.41c757ba-7a86-4b18-9d1b-24007ae218b5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-28-04.08f4b629-ee7a-4f10-b85e-46888309f8e8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-30-35.795cb915-f02d-4c45-a32d-3f3fd1993645" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-30-35.da5fcc5e-9401-43ba-ab76-5923f326cc11" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-35-22.43b5446f-a8c0-4b92-96e6-c77ff8c2236e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-38-56.37d1c522-571b-44ae-9ff2-82ee38028b63" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-35.3af4b69f-39f3-449a-b5c0-32161c65aad6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.3b5e72d7-5ab2-47cf-89b9-7698d5b5cb47" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.81050271-4869-492b-beec-d1aad09cb485" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.b2000d59-ae94-4d5d-8370-2139fecdab8b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.11b882a1-d285-4bf1-8037-741a6bdcb34d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.90b79b50-cdc2-4a0b-b357-5ba3ea72827e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.96e1e396-3177-4864-b7fc-27ed37b21e60" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-41-54.c1fe638f-75d7-4d1a-9a7d-f133d93cbe59" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-42-19.6f6a635f-2f0e-4dbf-af7c-99a320e40f09" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-42-20.f258f9a8-5cfb-4b1c-af6d-a020f28f4f0d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.18-58-48.bec69d3b-2d85-4a47-b664-737b150a0ea7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-03-48.cc6118e7-adfa-464b-aec2-74ea042239c2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-04-08.811ba091-0a81-4407-9b86-38a96b80e977" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-23-19.e59f72b9-b892-48ec-897b-d1e77f00c925" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-41-43.60761492-dba0-4a93-9efe-b7c035d5bbc9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-08-34.53a9409d-1b41-4c81-bb08-1c5844c172cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-09-11.6f2267b7-afa1-4164-8447-fbba648a79f9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-09-30.2a5a97ec-9df5-45ee-8bbe-6519c75a4358" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-18-00.13dcd57b-96f8-4762-a211-081fdf69d9cd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-19-13.0c084406-24eb-410d-8bd6-06d224ccbde5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-04-47.9d92bf6a-8de9-49d5-81b2-026a7bfadc48" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-16.2297efbf-eeef-4df8-9b6e-1489c36177b3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-17.146a9328-61fd-49d6-9d97-5a7c76dc4701" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-18.a10c512a-3f68-4eb4-83f5-17ac0d1edb01" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-23.f9fba4e0-069c-44e1-8dbd-4dd5d3ae62cf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-50.385c9f7d-d3db-4544-836a-33dcfd3dedb2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-51.4590ef17-468a-41f8-99e1-ca7588e7a621" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-17-49.bb01b6cc-eb04-4331-b346-74b9a1441d98" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-18-07.3196266d-f6be-42e4-9ac2-df9bb4dad9db" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-18-08.acf1737d-5340-42d0-bffb-4d8ca05c58a6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-23-43.ab6a87d7-a3d5-4ba0-b96b-59f11f95cbfc" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-29-29.99b900dc-dc4a-4faa-a0f8-e4c47501a4a0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-29-41.51bc3ad3-ef87-47e1-b494-8998ef360867" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renderingHtml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/input" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/statistics.toolbar.clicks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/renderingHtml/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/index.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/applicationLibraries.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-jsJavascript/module1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first_app/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Middleware/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MoreAboutNode/FizzBuzz/output" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node-only-routing/server.js" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/helloworld/index.js" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-30-25.b9298d24-4cc7-4516-ac16-159f84d3ac92" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-30-26.a2d56bf6-5d92-4422-b882-0c857b76e59f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-30-46.3b107df3-1300-4d7f-9f75-0bd3a869c91c" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-12-44.6afb5de1-fa05-4d01-80f9-53d7ee06c24d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-13-11.e2a60e28-5c5f-4127-857b-b7aac92edb49" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-15-12.d5b77363-524e-434e-b844-964e61a1f6f2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-26-34.6225e2ac-80fb-4ab3-a340-48c1de890e13" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-30-32.86c0273a-73f6-4d4e-8532-06075e87bbee" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-35-40.860f9f48-650e-4ab8-9bc1-38920b8f1ba3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-35-59.be8d826a-5d9b-4157-b68d-5e093d1f69e0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-29-05.82ced75b-8d43-4d51-927d-0f3966f473cf" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-29-07.0043eacb-7740-4bac-aa12-91f1179abfd1" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-30-39.d78f04bf-6910-4d30-aaa7-d8e9f95eb505" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-06.c25ab45b-49b4-4517-bd67-9c84a94719a9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-28.5f5421c3-5fb7-4044-8e4d-87d2a3e30ec9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-30.341cd9f1-a726-4b60-9b36-6c8ead525a93" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.2506830d-044c-4731-a003-f04714a147c6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.615c3b15-9214-4176-99d0-aedfc1c78c55" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.8405d6a3-bd3e-49ca-926b-3e1d005c502b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-32.31110eca-2b65-4c2b-ba6e-61f9e310d095" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-08.00012719-4a04-49a3-ada8-76c6b6928c42" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-33.4fc233c3-0f70-476b-b7fe-f5c46e1e92d5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-46.97e07800-81ef-49df-aa0c-9636689adabb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-37-02.9439c1c8-e997-4ca5-9e1a-8dd1c2db59d4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-38-59.cfde7624-85de-49bd-8a8e-172023adb868" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-39-01.352bc158-cf09-43ba-a4ee-1539bd6c6ad4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-40-48.7478de44-cb90-4bad-8371-e2be60a58364" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-40-49.589197fb-3f4d-44b2-a425-dfd828d092f5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-43-21.f63f327d-0beb-48b2-91b6-66fb97b1c608" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-57-28.4fa5d564-b355-4669-a802-b917cb5b3334" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-58-00.cdaa9d6c-e132-4e68-b0a1-173f6c36ba65" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-58-01.67b5ad42-dcc9-4f31-be96-fffcbb007454" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-03-38.0eee71a4-4e3b-4eb1-bd90-18b4956dea41" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-08-42.501602b5-eaf7-40fa-ad3b-0c10fd7ea4a5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-24.f7d32a51-f4fd-4ab3-b6b2-0e59fdab5bf8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-26.494e3b5d-8f97-4fa5-bf1e-1b0ae0f73f8f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-26.b8672646-2dcd-4154-bf27-589d64bff78b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-27.844d89db-697f-4a05-a4d3-d281e2b81676" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-28.9e481873-87f8-4bd2-a387-9bef6064d2d3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-39-19.26aab1cd-2bc8-4d71-99b8-bc8a6763e27d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-39-24.a60a481b-6a36-4644-8ac9-52e6d11ce72d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-44-15.f5366054-9145-4f67-a86e-8c80c7d127da" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-45-29.1821a450-effd-47e2-84fb-3638af49ee74" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-33.e47e762c-18f2-4efd-9325-fb50cb40aa98" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-31-16.60230fbd-8f14-4b0f-b362-ba73bb4fd8ed" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-18-44.41c757ba-7a86-4b18-9d1b-24007ae218b5" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-47-04.2adffe5f-50d8-43b1-8a9e-cefcc566fc47" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-47-35.2f8fe4b6-c377-422e-89c3-6ddd31603435" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-47-37.49a4a800-65f7-404f-bd85-2d52be49d237" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-48-10.34f9c40e-01e8-4156-8a24-2b050ff6d544" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-48-37.4c051500-c422-457e-a9b0-2903ed22ae98" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-27.4fbcb56f-f7d0-4dca-98dc-cc4773e6934e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-28.67ca1b4f-32cc-4424-980d-602ce64ae3d9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-29.6e3b7294-5c15-434f-8e17-8c853699872b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-29.7121b364-86f7-4eed-82db-2abab824ce3a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.19-41-33.4ffbc5b3-e887-4453-acf2-830e87b2bc78" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-05-19.6fcf5c8c-5a37-4981-adfd-ee080e98a9c0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-05-57.5a168150-034c-4081-991f-2ea3588284f6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/it.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_user.table" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-05-59.72cd54b9-9ef5-4ba4-95c2-16bba8410c69" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-17-59.11f40fc9-2973-451e-8bb5-4098c79d8eab" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-25-31.c769d12c-e484-4a2e-9ef0-2f760cfa60d6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-26-00.6e68c5f8-1c09-4143-9ca3-5f5423d1940f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.00-12-00.5cb9611d-55bc-4c69-a425-cd5a57965873" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-01-11.8f32bd2b-1ff4-4ee1-be15-0b05a5f61754" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-02-10.196dabf2-2031-4b01-b659-1cc461e11085" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-06-09.733ae457-5827-41ff-ae7f-d4883001114a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-39-06.35d7928e-4fb7-4667-8b93-751bf6b1b3d3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-41-37.aa3fdaa9-ac08-42b9-9b15-f554d3fa8c31" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-42-24.f34255d7-c2a4-428a-9a39-f2d85d434da5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-23-47.f3e8de87-df06-4dc7-aeba-6b2acef418a2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-24-37.ca651d69-c1fd-44ee-b0f1-64130a8b910f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-30-14.3faf4115-89b0-48b9-97ab-d82a2dd647ed" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-32-40.d7431ce5-9059-4313-8e61-679d439bc96d" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-16-37.6f994fbb-06a9-4619-b1a5-a1a794533a25" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-32-41.c72343bd-299a-4cb8-9196-6767228c08e0" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-43-37.cb478751-441e-41c7-a569-8f0f157ef0c9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-45-09.171b88eb-58d5-4aad-907d-7926145168bd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-47-02.228599ff-843e-4547-b2c3-9a9ec9fc8a62" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.20-01-48.0eb8defa-06bd-483f-8c45-aa8565c9b1c6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-28-26.8f1e36c1-d7bf-475a-97f0-8fec8442fd36" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-29-02.8e98bb21-26a7-4df7-b9e5-c6a644fe72c9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-29-04.820c5133-4b79-4460-86e4-93a102bd33ff" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-32-15.9bbbd195-ede3-45d5-8734-44f59aedd47e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-36-37.7a82e481-e267-4209-8c30-8247ae3734b8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-28-08.f85270fd-85f1-4cb2-add9-d813a81f14c8" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-29-11.d7468771-14de-47f6-8a0d-02e0db31f92a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-32-04.f06001d4-8698-4075-b007-591f3e8c52b2" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-32-53.a1794a18-cb19-488b-b15e-80cf7e5cc4e7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-56-27.f63b969b-4ff9-4a9b-857d-252356f965c3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-28.22-59-14.75cd81f3-1353-4ba8-a5c8-0f000301b7ac" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-28.23-39-08.91bc86ed-3f31-4cff-b23a-1901f5111e5f" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-04-44.83729bd4-3845-4433-9ef3-db56b8d203fe" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-13-26.18d1c800-7d65-4b60-b31e-01b8ecd7b70a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-14-19.d6a732b4-6439-4c32-b8b4-8c746618958b" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-14-23.c1e9d1a6-7915-41c1-a966-dd9bf5ae17ba" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-29-23.13f094cd-000c-4ecd-868d-0276b72efff9" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-29-47.f8099db9-535a-4932-9fce-15ccb510a478" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-30-40.f52ea22a-87e0-48c4-ba6f-09d0c1663519" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-32-25.a931cbfd-9868-42fe-a4ff-a9750afc11d4" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-34-24.00f1220f-b0b0-4e1e-aa43-c50b24ab32b3" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-02-00.9c175e8e-b0b4-4d59-ab7f-192c16f18180" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-02-02.c7b317d9-a7c1-4562-bbb0-5df5168f5f23" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-30-49.b5e876a4-af80-4dea-b841-1dcd49bf127a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-31-41.16b151d2-4303-4a85-8b80-939181a84da5" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-35-21.0b68b757-23a4-4614-b2ac-ef54b45d2f0e" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-37-18.e0ceb8fd-907c-4074-a5cc-cb4273210e18" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/cs-cz.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/es-es.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.3b5e72d7-5ab2-47cf-89b9-7698d5b5cb47" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-26-37.a0ffd974-5a0e-4972-997f-80aa122282c2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-28-04.08f4b629-ee7a-4f10-b85e-46888309f8e8" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-08-59.0731f6cc-6a95-4b26-8124-8a2c4109b5af" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/062/144/127.0.0.1-4f36b5c7-4a5d-4c62-8ccf-97a1aa18e2bb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_blog_post.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/menu.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.81050271-4869-492b-beec-d1aad09cb485" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/fr-ca.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-25-58.bbc5ac69-36df-474c-a175-d59eba4456ae" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-23-13.b029a5ab-7bd7-46c4-9721-81627a6ee7e7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-42-24.f34255d7-c2a4-428a-9a39-f2d85d434da5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-41-37.aa3fdaa9-ac08-42b9-9b15-f554d3fa8c31" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-47-37.49a4a800-65f7-404f-bd85-2d52be49d237" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-13-11.e2a60e28-5c5f-4127-857b-b7aac92edb49" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-32-25.a931cbfd-9868-42fe-a4ff-a9750afc11d4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-47-42.3b903e95-0ffb-414b-a667-e756884b7b17" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/appadmin.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-25-31.c769d12c-e484-4a2e-9ef0-2f760cfa60d6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-24.2d352e07-e974-4d44-98e8-fef0233623d5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-32-40.d7431ce5-9059-4313-8e61-679d439bc96d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-09-09.8fff9638-c2df-436a-ad08-777abe95f9d1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-18-22.6b9295ec-2847-4ae8-9c2f-4a25bdf6472c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-32-53.a1794a18-cb19-488b-b15e-80cf7e5cc4e7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-bcd64a48-cdf0-42c4-b6ce-38fdcd520e45" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-29-02.8e98bb21-26a7-4df7-b9e5-c6a644fe72c9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.20-01-48.0eb8defa-06bd-483f-8c45-aa8565c9b1c6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/08e/092/127.0.0.1-2875d371-c5ff-44ae-b22a-272ae74d0259" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-47-02.228599ff-843e-4547-b2c3-9a9ec9fc8a62" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_likes.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/css3buttons_icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.11b882a1-d285-4bf1-8037-741a6bdcb34d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-30-32.86c0273a-73f6-4d4e-8532-06075e87bbee" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cache/cache.shelve" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-26-58.62802a54-8bfd-4204-8091-c0605c8feab5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_permission.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-01-11.8f32bd2b-1ff4-4ee1-be15-0b05a5f61754" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-19-49.c815aa6b-9c0f-4078-864a-5778dd6833e9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-24-25.7ead43c5-be5c-4a6f-8298-3b06825a78e6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/superfish.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-23-55.e153d9ac-4aa4-4fd1-a3b5-b9a2347d5f79" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-23-19.e59f72b9-b892-48ec-897b-d1e77f00c925" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.18-58-48.bec69d3b-2d85-4a47-b664-737b150a0ea7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/db.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-18-00.13dcd57b-96f8-4762-a211-081fdf69d9cd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-10-13.770d8b0f-825e-4e87-9ef4-53ce4c4b4985" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-41-39.9e4eaf94-b95a-4adc-92b8-fcbb2cb2e9f4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cache/cache.lock" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-47-35.2f8fe4b6-c377-422e-89c3-6ddd31603435" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-29-05.82ced75b-8d43-4d51-927d-0f3966f473cf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-48-37.4c051500-c422-457e-a9b0-2903ed22ae98" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.615c3b15-9214-4176-99d0-aedfc1c78c55" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-35-22.43b5446f-a8c0-4b92-96e6-c77ff8c2236e" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/fr-fr.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/hi-hi.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/hu-hu.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/hu.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/it-it.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/it.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pl-pl.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pl.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt-br.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt-pt.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/ru-ru.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/sk-sk.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/zh-tw.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/db.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/db.py.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/menu.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/modules/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/private/auth.key" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/progress.log" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/03f/0e8/127.0.0.1-99c1b0cb-c10e-423a-91d0-9da1fc813b52" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/062/144/127.0.0.1-4f36b5c7-4a5d-4c62-8ccf-97a1aa18e2bb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/08d/128/127.0.0.1-bf59c7c1-e7b6-41ce-81de-2cfd1d7a4cdd" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/08e/092/127.0.0.1-2875d371-c5ff-44ae-b22a-272ae74d0259" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/0f8/17e/127.0.0.1-ab445ed4-4daa-4532-84eb-ddd67cdf65eb" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-b569b386-3d87-495a-87ca-89d8024aabab" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-bcd64a48-cdf0-42c4-b6ce-38fdcd520e45" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-db0d4806-b3c3-4347-967a-d3847597ee73" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/140/1ec/127.0.0.1-d05a4bbd-ac80-4ca0-8deb-025f087f6c1a" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/192/018/127.0.0.1-437a7e06-7ee8-4693-bb4a-793e3dd807a6" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/1c8/01a/127.0.0.1-0f60bcc3-fdd4-49e5-8111-6b53afc160a7" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/1f7/1df/127.0.0.1-a3ad3327-f19f-4014-ba3a-30a7ea3ba734" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-12-44.6afb5de1-fa05-4d01-80f9-53d7ee06c24d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-08-42.501602b5-eaf7-40fa-ad3b-0c10fd7ea4a5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-35-40.860f9f48-650e-4ab8-9bc1-38920b8f1ba3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-32.31110eca-2b65-4c2b-ba6e-61f9e310d095" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.2506830d-044c-4731-a003-f04714a147c6" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-39-19.26aab1cd-2bc8-4d71-99b8-bc8a6763e27d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/private/auth.key" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-04-08.811ba091-0a81-4407-9b86-38a96b80e977" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.80148dae-ed09-4ed6-b160-024cfd0e567e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-27-08.2b58dc91-411d-4bd8-9f05-851d5f3ed150" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/skeleton.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/superfish.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/web2py.css" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/arrows-ffffff.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/css3buttons_backgrounds.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/css3buttons_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/poweredby.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show_all.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-25.c4edf8d1-846e-432a-b41d-d6ec936068aa" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-15-50.cdc85eac-6f8f-4df7-9dc4-76e9c8c2bb46" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/storage.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-48-10.34f9c40e-01e8-4156-8a24-2b050ff6d544" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-18-51.c987c7e3-f7bc-4435-b17f-3b1dad71b7aa" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-35-39.80ab1c84-a2d5-4168-819c-bfcde0eae8fd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-27-50.6754c2a6-2567-4c8e-95c6-b1cdfd77674e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-00-58.7bc12066-bbc0-4f00-a153-922a9953eb81" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-29-07.0043eacb-7740-4bac-aa12-91f1179abfd1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_membership.table" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/dd_belatedpng.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/modernizr.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/superfish.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/web2py.js" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/_default/show.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/appadmin.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_blog_post.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_blog_post.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_comment.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_comment.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/192/018/127.0.0.1-437a7e06-7ee8-4693-bb4a-793e3dd807a6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-41-43.60761492-dba0-4a93-9efe-b7c035d5bbc9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-16-12.bd040a33-768e-4998-9dec-5e61b29f8943" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-23-50.5a966316-8101-4e4a-a333-c23f596734cd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-27.4fbcb56f-f7d0-4dca-98dc-cc4773e6934e" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/edit_blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/edit_blog.html.1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-43-21.f63f327d-0beb-48b2-91b6-66fb97b1c608" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-56-27.f63b969b-4ff9-4a9b-857d-252356f965c3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/user.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/1c8/01a/127.0.0.1-0f60bcc3-fdd4-49e5-8111-6b53afc160a7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/modernizr.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-24-07.18b343c1-629a-4d0b-80e7-34808459828b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/zh-tw.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-11-03.ac316e56-fa1a-4189-86aa-61dc75a0b7cd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-db0d4806-b3c3-4347-967a-d3847597ee73" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-41-54.c1fe638f-75d7-4d1a-9a7d-f133d93cbe59" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py.1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-16-37.6f994fbb-06a9-4619-b1a5-a1a794533a25" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.96e1e396-3177-4864-b7fc-27ed37b21e60" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-19-13.0c084406-24eb-410d-8bd6-06d224ccbde5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/veb.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_comment.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-13-26.18d1c800-7d65-4b60-b31e-01b8ecd7b70a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-25-59.d2d60416-1ef2-43e7-8e8f-6df364f2896e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-57-28.4fa5d564-b355-4669-a802-b917cb5b3334" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/index.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/ABOUT" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-30-46.3b107df3-1300-4d7f-9f75-0bd3a869c91c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-16-18.fafc8f01-023a-4fcc-b028-16f1437cd143" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-26-34.6225e2ac-80fb-4ab3-a340-48c1de890e13" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-37-02.9439c1c8-e997-4ca5-9e1a-8dd1c2db59d4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-17.763f9e9b-d46f-44c7-9795-78b4a759c5c7" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-23-43.ab6a87d7-a3d5-4ba0-b96b-59f11f95cbfc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-00-47.9eaa04f6-fb33-492f-b6db-a4830e02515c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-08-34.53a9409d-1b41-4c81-bb08-1c5844c172cd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-37-18.e0ceb8fd-907c-4074-a5cc-cb4273210e18" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-15-12.d5b77363-524e-434e-b844-964e61a1f6f2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/dd_belatedpng.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-08-29.a0bf6636-e0dd-4b98-8a60-03b4cc6aea4c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show_all.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-34-41.20e18d73-8f41-4d5c-8efb-af79e2d2faa1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-42-00.bcd1af53-2d68-4703-9c63-8a3e3a0fefa5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-15.f795e686-305a-4cf9-b5ee-d3495b050440" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/controllers/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-38-59.cfde7624-85de-49bd-8a8e-172023adb868" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-30-39.d78f04bf-6910-4d30-aaa7-d8e9f95eb505" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-33.73564357-e911-41d6-85fe-0c3185f4fe8f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-18-50.21d132a5-31b6-40e2-9544-24a19a9b8206" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-14-28.09782a57-5a9b-440b-a292-40fb61738617" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-30-35.795cb915-f02d-4c45-a32d-3f3fd1993645" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-15-22.56bca22f-336e-49f6-a2b6-f835f70f2321" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-45-09.171b88eb-58d5-4aad-907d-7926145168bd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-02-10.196dabf2-2031-4b01-b659-1cc461e11085" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-28.22-59-14.75cd81f3-1353-4ba8-a5c8-0f000301b7ac" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.13-09-20.095fd486-0031-4e0e-9dc4-08334e88f64d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-21-06.8afc4619-bee6-4898-a3c1-9fc3a1f3be0b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-18-08.acf1737d-5340-42d0-bffb-4d8ca05c58a6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/poweredby.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.09-43-31.2615143b-0f94-4afc-ac9c-8299a6ce22b6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/progress.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-39-39.739f041c-b6d6-4130-96fa-00285ab1a653" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/edit_blog.html.bak" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/index.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show_all.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/show_all.html.bak" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/user.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.json" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.jsonp" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.load" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/hu.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-39-24.a60a481b-6a36-4644-8ac9-52e6d11ce72d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-03-38.0eee71a4-4e3b-4eb1-bd90-18b4956dea41" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-09-11.6f2267b7-afa1-4164-8447-fbba648a79f9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/edit_blog.html.1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_like.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.14-35-59.be8d826a-5d9b-4157-b68d-5e093d1f69e0" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_comment.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/default/add_blog_post.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-35-21.0b68b757-23a4-4614-b2ac-ef54b45d2f0e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-31-14.50d9389d-5bb2-4993-8730-faffe76ef929" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/cs-cz.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-35-56.6826d64e-1d04-4293-8643-8d97c4b64921" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-14.494dc888-0c40-4448-88e3-427782c7e3d4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pl.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-40-28.f5828a18-458f-454a-bf1c-71060a931837" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.15-59-24.1dba0573-9237-4f64-9329-f44677635ce0" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-05-57.5a168150-034c-4081-991f-2ea3588284f6" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.rss" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.xml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-31.b88184e1-8675-4d1f-a61f-933cc4afc058" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-31-41.16b151d2-4303-4a85-8b80-939181a84da5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-36-13.31acf7a3-797f-4351-b509-68e6221c26e5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-28.9e481873-87f8-4bd2-a387-9bef6064d2d3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-05-19.6fcf5c8c-5a37-4981-adfd-ee080e98a9c0" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-28.67ca1b4f-32cc-4424-980d-602ce64ae3d9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-29-47.f8099db9-535a-4932-9fce-15ccb510a478" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/hu-hu.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.json" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-29-11.d7468771-14de-47f6-8a0d-02e0db31f92a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_group.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.load" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pl-pl.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-30-40.f52ea22a-87e0-48c4-ba6f-09d0c1663519" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/js/web2py.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-09-50.45f86608-755d-4541-b516-d3204b783f7e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-35.3af4b69f-39f3-449a-b5c0-32161c65aad6" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-18.a10c512a-3f68-4eb4-83f5-17ac0d1edb01" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-34-24.00f1220f-b0b0-4e1e-aa43-c50b24ab32b3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-18-07.3196266d-f6be-42e4-9ac2-df9bb4dad9db" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.13-06-09.733ae457-5827-41ff-ae7f-d4883001114a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-23-47.f3e8de87-df06-4dc7-aeba-6b2acef418a2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-22-19.385158c2-b653-40ac-8f62-de78bf2f3927" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-23.f9fba4e0-069c-44e1-8dbd-4dd5d3ae62cf" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/140/1ec/127.0.0.1-d05a4bbd-ac80-4ca0-8deb-025f087f6c1a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt-br.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-40-48.7478de44-cb90-4bad-8371-e2be60a58364" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/arrows-ffffff.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-13-48.b6efbafe-d578-400f-9f2b-924cad005475" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.00-12-00.5cb9611d-55bc-4c69-a425-cd5a57965873" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-30-35.da5fcc5e-9401-43ba-ab76-5923f326cc11" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_content.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.01-27-53.a4729cdd-d50f-4478-b73c-69582eab33a1" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-40-49.589197fb-3f4d-44b2-a425-dfd828d092f5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-36-11.dd272903-c2c4-4cf1-8139-18e680e3aba2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-30.341cd9f1-a726-4b60-9b36-6c8ead525a93" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/web2py.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/es-es.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/08d/128/127.0.0.1-bf59c7c1-e7b6-41ce-81de-2cfd1d7a4cdd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-36-37.7a82e481-e267-4209-8c30-8247ae3734b8" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-29-29.99b900dc-dc4a-4faa-a0f8-e4c47501a4a0" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.714563d3-f28d-41c1-bd12-870e11640e9a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-02-00.9c175e8e-b0b4-4d59-ab7f-192c16f18180" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-32-41.c72343bd-299a-4cb8-9196-6767228c08e0" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-28.23-39-08.91bc86ed-3f31-4cff-b23a-1901f5111e5f" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/web2py_ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/veb.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/appadmin.html" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-04-44.83729bd4-3845-4433-9ef3-db56b8d203fe" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-38-56.37d1c522-571b-44ae-9ff2-82ee38028b63" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-17.146a9328-61fd-49d6-9d97-5a7c76dc4701" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-26.b8672646-2dcd-4154-bf27-589d64bff78b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-06.c25ab45b-49b4-4517-bd67-9c84a94719a9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-20-03.aa19ca1f-0392-4895-bb8f-daf77697959d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/0f8/17e/127.0.0.1-ab445ed4-4daa-4532-84eb-ddd67cdf65eb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-26.494e3b5d-8f97-4fa5-bf1e-1b0ae0f73f8f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-46.97e07800-81ef-49df-aa0c-9636689adabb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/modules/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-28-26.8f1e36c1-d7bf-475a-97f0-8fec8442fd36" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-33-52.d72745ee-8021-4f89-a779-8e5b1e2e04e9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-08.00012719-4a04-49a3-ada8-76c6b6928c42" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/1f7/1df/127.0.0.1-a3ad3327-f19f-4014-ba3a-30a7ea3ba734" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/127.0.0.1-b569b386-3d87-495a-87ca-89d8024aabab" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-29-04.820c5133-4b79-4460-86e4-93a102bd33ff" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-32-04.f06001d4-8698-4075-b007-591f3e8c52b2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-04-47.9d92bf6a-8de9-49d5-81b2-026a7bfadc48" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-17-59.11f40fc9-2973-451e-8bb5-4098c79d8eab" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-18.13-32-15.9bbbd195-ede3-45d5-8734-44f59aedd47e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/images/css3buttons_backgrounds.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-14-23.c1e9d1a6-7915-41c1-a966-dd9bf5ae17ba" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-37.90b79b50-cdc2-4a0b-b357-5ba3ea72827e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-18-30.d92cfe75-136e-4e4e-85fa-f14382037059" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-30-14.3faf4115-89b0-48b9-97ab-d82a2dd647ed" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/static/css/superfish.css" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.19-03-48.cc6118e7-adfa-464b-aec2-74ea042239c2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-30-26.a2d56bf6-5d92-4422-b882-0c857b76e59f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-29-23.13f094cd-000c-4ecd-868d-0276b72efff9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-27.23-28-08.f85270fd-85f1-4cb2-add9-d813a81f14c8" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_cas.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/c8b669d15150d7109e5f7ab36744a5b7_auth_event.table" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.20-09-30.2a5a97ec-9df5-45ee-8bbe-6519c75a4358" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.17-24-37.ca651d69-c1fd-44ee-b0f1-64130a8b910f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-42-19.6f6a635f-2f0e-4dbf-af7c-99a320e40f09" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-33.8ff5eaf1-19e2-4fac-9e48-f8f56b33cf8f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-51.4590ef17-468a-41f8-99e1-ca7588e7a621" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-58-01.67b5ad42-dcc9-4f31-be96-fffcbb007454" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-05-16.2297efbf-eeef-4df8-9b6e-1489c36177b3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.16-57-35.94f48f51-2180-460c-b4be-dae618f4674e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/_default/show.html.bak" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/it-it.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-27.844d89db-697f-4a05-a4d3-d281e2b81676" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-29.6e3b7294-5c15-434f-8e17-8c853699872b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.10-35-46.4084bb42-e161-4efd-9cf2-eed17cd4817f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-02-02.c7b317d9-a7c1-4562-bbb0-5df5168f5f23" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/ru-ru.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-58-00.cdaa9d6c-e132-4e68-b0a1-173f6c36ba65" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-34-33.4fc233c3-0f70-476b-b7fe-f5c46e1e92d5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-30.c3ae5b8a-1908-4b32-8729-fd2bb0c83d51" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.16-39-06.35d7928e-4fb7-4667-8b93-751bf6b1b3d3" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.01-30-49.b5e876a4-af80-4dea-b841-1dcd49bf127a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-29.00-14-19.d6a732b4-6439-4c32-b8b4-8c746618958b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-42-20.f258f9a8-5cfb-4b1c-af6d-a020f28f4f0d" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/models/db.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.19-06-39.6cd6209f-6c2b-4da9-a51e-8f36642965bd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-38-24.f7d32a51-f4fd-4ab3-b6b2-0e59fdab5bf8" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/cron/crontab" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/sessions/03f/0e8/127.0.0.1-99c1b0cb-c10e-423a-91d0-9da1fc813b52" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.20-26-00.6e68c5f8-1c09-4143-9ca3-5f5423d1940f" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-37-32.ed6f24dd-1029-4683-b231-8881209b7e48" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-28.5f5421c3-5fb7-4044-8e4d-87d2a3e30ec9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/databases/sql.log" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.jsonp" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.17-39-36.b2000d59-ae94-4d5d-8370-2139fecdab8b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.13-43-05.9b98852a-a84b-4234-bc66-b49f272c210a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-29-41.51bc3ad3-ef87-47e1-b494-8998ef360867" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-17.19-43-37.cb478751-441e-41c7-a569-8f0f157ef0c9" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-31-31.8405d6a3-bd3e-49ca-926b-3e1d005c502b" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.16-39-01.352bc158-cf09-43ba-a4ee-1539bd6c6ad4" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-14.20-21-03.b8dc617b-1603-42ec-975e-a1d65a713a2c" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.00-32-31.d5c3c447-3f6c-48d9-8348-cd4906325dea" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/views/generic.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-16-50.385c9f7d-d3db-4544-836a-33dcfd3dedb2" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.12-39-23.2563f5ea-1163-4f48-b1de-3278c4d06e8e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-15.14-11-47.350035ac-3095-4a9a-bbd8-e055e14f9a92" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/sk-sk.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/languages/pt-pt.py" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.19-41-33.4ffbc5b3-e887-4453-acf2-830e87b2bc78" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.13-17-49.bb01b6cc-eb04-4331-b346-74b9a1441d98" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/blogpost/errors/127.0.0.1.2016-05-16.17-49-29.7121b364-86f7-4eed-82db-2abab824ce3a" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -360,31 +360,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Routers/index.js">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDoDB/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="696">
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teacher.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routers/routes/teacher.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDoDB/public_static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Routers/routes/students.js">
+      <file leaf-file-name="todo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToDoDB/public_static/todo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+            <state relative-caret-position="360">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <marker date="1518775012416" expanded="true" signature="335:473" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ToDoDB/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -438,8 +450,12 @@
         <option value="$PROJECT_DIR$/Middleware/students.js" />
         <option value="$PROJECT_DIR$/Routers/students.js" />
         <option value="$PROJECT_DIR$/Routers/routes/teacher.js" />
-        <option value="$PROJECT_DIR$/Routers/index.js" />
         <option value="$PROJECT_DIR$/Routers/routes/students.js" />
+        <option value="$PROJECT_DIR$/Routers/index.js" />
+        <option value="$PROJECT_DIR$/ToDoDB/public_static/index.html" />
+        <option value="$PROJECT_DIR$/ToDoDB/server.js" />
+        <option value="$PROJECT_DIR$/ToDoDB/public_static/todo.js" />
+        <option value="$PROJECT_DIR$/ToDoDB/db.js" />
       </list>
     </option>
   </component>
@@ -464,7 +480,9 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Middleware/node_modules" />
     <handled-path value="$PROJECT_DIR$/Routers/node_modules" />
+    <handled-path value="$PROJECT_DIR$/ToDoDB/node_modules" />
     <handled-path value="$PROJECT_DIR$/helloworld/node_modules" />
+    <handled-path value="$PROJECT_DIR$/sockets-example/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="292" />
@@ -490,6 +508,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -500,20 +520,18 @@
             <path>
               <item name="Elixir" type="b2602c69:ProjectViewProjectNode" />
               <item name="Elixir" type="462c0819:PsiDirectoryNode" />
-              <item name="Routers" type="462c0819:PsiDirectoryNode" />
+              <item name="ToDoDB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Elixir" type="b2602c69:ProjectViewProjectNode" />
               <item name="Elixir" type="462c0819:PsiDirectoryNode" />
-              <item name="Routers" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="ToDoDB" type="462c0819:PsiDirectoryNode" />
+              <item name="public_static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -521,7 +539,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Routers/index.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ToDoDB/server.js" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.2.6" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -556,7 +574,7 @@
   </component>
   <component name="RunManager" selected="Node.js.server.js">
     <configuration name="first.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Elixir/first.html" />
-    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Routers/index.js" working-dir="$PROJECT_DIR$">
+    <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ToDoDB/server.js" working-dir="$PROJECT_DIR$">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
           <list />
@@ -628,12 +646,16 @@
       <workItem from="1517980295902" duration="4961000" />
       <workItem from="1518009147641" duration="13000" />
       <workItem from="1518160103118" duration="62000" />
-      <workItem from="1518419697503" duration="7048000" />
+      <workItem from="1518419697503" duration="9288000" />
+      <workItem from="1518508091991" duration="102000" />
+      <workItem from="1518703843617" duration="596000" />
+      <workItem from="1518751988140" duration="14401000" />
+      <workItem from="1518856889920" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86136000" />
+    <option name="totallyTimeSpent" value="104068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,11 +672,10 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19024123" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3399123" sideWeight="0.3223684" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2982456" sideWeight="0.67763156" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2982456" sideWeight="0.67763156" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2752193" sideWeight="0.5855263" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2752193" sideWeight="0.5855263" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -662,6 +683,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -728,35 +750,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node-only-routing/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renderingHtml/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renderingHtml/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/renderingHtml/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -999,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,30 +1006,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routers/routes/teacher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="600">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routers/routes/students.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routers/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routers/routes/students.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoDB/public_static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoDB/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoDB/public_static/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <marker date="1518775012416" expanded="true" signature="335:473" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToDoDB/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
